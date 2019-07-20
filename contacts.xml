@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<contacts>
+<contact>
+	<first_name>Твое</first_name>
+	<last_name>Твое</last_name>
+	<phone_number>Твой</phone_number>
+	<notes>Твои</notes>
+</contact>
+<contact>
+	<first_name>Мое</first_name>
+	<last_name>Моя</last_name>
+	<phone_number>Мой</phone_number>
+	<notes>Мои</notes>
+</contact>
+</contacts>
